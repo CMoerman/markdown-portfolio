@@ -1,3 +1,3 @@
-[ ] Kat
-[ ] Potatoes
-[ ] Games
+- [ ] Kat
+- [ ] Potatoes
+- [ ] Games
